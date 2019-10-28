@@ -8,7 +8,7 @@
     <spring:url var="images" value="/resources/images"/>
     <spring:url var="vendor" value="/resources/vendor"/>
  <!DOCTYPE html>
-<html lang="en">
+<html lang="en"> 
 
 <head>
 
