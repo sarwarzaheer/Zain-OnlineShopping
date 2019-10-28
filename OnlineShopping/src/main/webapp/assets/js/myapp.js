@@ -13,5 +13,5 @@ $(function(){
 		$('#listProducts').addClass('active');
 	    $('#a_'+menu).addClass('active');
 		break;
-	}
+	} 
 })
